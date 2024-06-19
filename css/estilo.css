@@ -18,3 +18,10 @@ nav a {
 nav a:hover{
     color: black;
 }
+h1 {
+    color: rgb(90, 162, 196);
+}
+footer{
+    background: aquamarine;
+    text-align: center;
+}
